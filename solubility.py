@@ -1,6 +1,6 @@
 #! wget https://raw.githubusercontent.com/dataprofessor/data/master/delaney.csv
 
-#!pip install rdkit-pypi pandas sklearn
+!pip install rdkit pandas scikit-learn
 
 import pandas as pd
 import numpy as np
